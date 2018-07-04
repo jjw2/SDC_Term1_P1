@@ -90,28 +90,3 @@ The algorithm could be improved by using an elliptical fitting technique such as
 
 **5) Handling Traffic**
 While not shown in the test videos, traffic may obstruct lines (ex: vehicles performing lane changes), and the current algorithm will struggle with this. Historical information (as discussed in point 2 above) could help with this. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
